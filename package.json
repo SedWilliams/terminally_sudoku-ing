@@ -1,0 +1,22 @@
+{
+  "name": "nodesudoku",
+  "version": "1.0.0",
+  "description": "A terminal sudoku game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SedWilliams/terminally_sudoku-ing.git"
+  },
+  "author": "Shedrick Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SedWilliams/terminally_sudoku-ing/issues"
+  },
+  "homepage": "https://github.com/SedWilliams/terminally_sudoku-ing#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
